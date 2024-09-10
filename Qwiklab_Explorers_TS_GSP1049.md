@@ -2,7 +2,7 @@
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
-### Run the following Commands in CloudShell
+### Run the following Commands in CloudShell 
 
 ```
 gcloud spanner databases execute-sql banking-db --instance=banking-instance \
